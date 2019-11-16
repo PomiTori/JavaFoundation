@@ -7,7 +7,7 @@ public class DeskRunner {       //точка входа в программу
         System.out.println(studentDesk.toString());
 //        studentDesk.color = "red";
         System.out.println(studentDesk.toString());
-        studentDesk.hashCode();
+//        studentDesk.hashCode();
 
     }
 
